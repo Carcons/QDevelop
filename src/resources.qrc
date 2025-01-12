@@ -1,0 +1,48 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+	<file>icons/app.png</file>
+	<file>icons/appicon.png</file>
+	<file>icons/about.png</file>
+	<file>icons/save.png</file>
+	<file>icons/saveall.png</file>
+	<file>icons/close.png</file>
+	<file>icons/closeall.png</file>
+	<file>icons/printer.png</file>
+	<file>icons/cancel.png</file>
+	<file>icons/undo.png</file>
+	<file>icons/redo.png</file>
+	<file>icons/settings.png</file>
+	<file>icons/dir.png</file>
+	<file>icons/dirdelete.png</file>
+	<file>icons/dirnew.png</file>
+	<file>icons/diropen.png</file>
+	<file>icons/dirrename.png</file>
+	<file>icons/genericfile.png</file>
+	<file>icons/sourceadd.png</file>
+	<file>icons/sourceremove.png</file>
+	<file>icons/sourcerename.png</file>
+	<file>icons/cfile.png</file>
+	<file>icons/cppfile.png</file>
+	<file>icons/cmake.png</file>
+	<file>icons/cmakeproj.png</file>
+	<file>icons/makefileproj.png</file>
+	<file>icons/hfile.png</file>
+	<file>icons/makefile.png</file>
+	<file>icons/static.png</file>
+	<file>icons/shared.png</file>
+	<file>icons/exe.png</file>
+	<file>icons/stop.png</file>
+	<file>icons/run.png</file>
+	<file>icons/build.png</file>
+	<file>icons/debuggerstart.png</file>
+	<file>icons/debuggerstop.png</file>
+	<file>icons/debuggernextline.png</file>
+	<file>icons/builddebug.png</file>
+	<file>icons/debuggercontinue.png</file>
+	<file>icons/infolocal.png</file>
+	
+    <file>syntax/cpp_classes.txt</file>
+    <file>syntax/cpp_keywords.txt</file>
+    <file>syntax/preproc_keywords.txt</file>
+</qresource>
+</RCC>

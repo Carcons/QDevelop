@@ -1,0 +1,12 @@
+list
+vector
+map
+string
+stringstream
+array
+set
+iterator
+queue
+dequeue
+stack
+exception
